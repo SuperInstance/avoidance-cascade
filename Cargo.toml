@@ -1,0 +1,11 @@
+[package]
+name = "avoidance-cascade"
+version = "0.1.0"
+edition = "2021"
+description = "Models the avoidance cascade phenomenon from ternary agent systems and provides tools to detect and prevent it"
+license = "MIT"
+repository = "https://github.com/SuperInstance/avoidance-cascade"
+keywords = ["reinforcement-learning", "avoidance", "cascade", "agent", "exploration"]
+categories = ["science", "algorithms"]
+
+[dependencies]
